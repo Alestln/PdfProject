@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PdfProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e7a924e6e500fef1c3db92f6f9b2a269fa20f81f")]
 [assembly: System.Reflection.AssemblyProductAttribute("PdfProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PdfProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
