@@ -446,19 +446,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Nitsela\\.nuget\\packages\\": {}
+    "C:\\Users\\Alestln\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nitsela\\RiderProjects\\PdfProject\\PdfProject\\PdfProject.csproj",
+      "projectUniqueName": "C:\\Users\\Alestln\\RiderProjects\\PdfProject\\PdfProject\\PdfProject.csproj",
       "projectName": "PdfProject",
-      "projectPath": "C:\\Users\\Nitsela\\RiderProjects\\PdfProject\\PdfProject\\PdfProject.csproj",
-      "packagesPath": "C:\\Users\\Nitsela\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nitsela\\RiderProjects\\PdfProject\\PdfProject\\obj\\",
+      "projectPath": "C:\\Users\\Alestln\\RiderProjects\\PdfProject\\PdfProject\\PdfProject.csproj",
+      "packagesPath": "C:\\Users\\Alestln\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alestln\\RiderProjects\\PdfProject\\PdfProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Nitsela\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alestln\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -505,7 +505,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

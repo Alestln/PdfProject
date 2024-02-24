@@ -1,17 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "3s84WXXsD03Ugpm+uUWPgv5s/8ytzWoxgcJN8a/JIMAHa01ZZ1rhuk2axVqZni4/PXNEypOPlo9VHOO7O8lqLA==",
+  "dgSpecHash": "7Mv+OACf+CDog+/B3i0OtcxDrIvde9Zp4EQ4VXEmRdCfPFoJhdKGWrwV9YB2WleKEuED3yNEt6S9Wx8xFk+KLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nitsela\\RiderProjects\\PdfProject\\PdfProject\\PdfProject.csproj",
+  "projectFilePath": "C:\\Users\\Alestln\\RiderProjects\\PdfProject\\PdfProject\\PdfProject.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Nitsela\\.nuget\\packages\\harfbuzzsharp\\7.3.0\\harfbuzzsharp.7.3.0.nupkg.sha512",
-    "C:\\Users\\Nitsela\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0\\harfbuzzsharp.nativeassets.macos.7.3.0.nupkg.sha512",
-    "C:\\Users\\Nitsela\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0\\harfbuzzsharp.nativeassets.win32.7.3.0.nupkg.sha512",
-    "C:\\Users\\Nitsela\\.nuget\\packages\\questpdf\\2023.12.2\\questpdf.2023.12.2.nupkg.sha512",
-    "C:\\Users\\Nitsela\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
-    "C:\\Users\\Nitsela\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.6\\skiasharp.harfbuzz.2.88.6.nupkg.sha512",
-    "C:\\Users\\Nitsela\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
-    "C:\\Users\\Nitsela\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512"
+    "C:\\Users\\Alestln\\.nuget\\packages\\harfbuzzsharp\\7.3.0\\harfbuzzsharp.7.3.0.nupkg.sha512",
+    "C:\\Users\\Alestln\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\7.3.0\\harfbuzzsharp.nativeassets.macos.7.3.0.nupkg.sha512",
+    "C:\\Users\\Alestln\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\7.3.0\\harfbuzzsharp.nativeassets.win32.7.3.0.nupkg.sha512",
+    "C:\\Users\\Alestln\\.nuget\\packages\\questpdf\\2023.12.2\\questpdf.2023.12.2.nupkg.sha512",
+    "C:\\Users\\Alestln\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\Alestln\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.6\\skiasharp.harfbuzz.2.88.6.nupkg.sha512",
+    "C:\\Users\\Alestln\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\Alestln\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512"
   ],
   "logs": []
 }

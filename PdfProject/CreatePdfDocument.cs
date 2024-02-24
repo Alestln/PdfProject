@@ -235,6 +235,7 @@ public static class CreatePdfDocument
         
         document.GeneratePdf("test.pdf");
         
-        await document.ShowInPreviewerAsync();
+        // Install Previewer for QuestPdf
+        //await document.ShowInPreviewerAsync();
     }
 }
